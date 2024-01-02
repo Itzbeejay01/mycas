@@ -9,7 +9,7 @@
     }
   },
   "routes": [
-    { "src": "/(.*)",  "dest": "/api/index.ph" },
-     { "src": "/output.css", "dest": "/api/output.css" },
-      { "src": "/script.js", "dest": "/api/script.js" }]
+    { "src": "/(.*)",  "dest": "/api/index.php" },
+     { "src": "/(.*)", "dest": "/api/output.css" },
+      { "src": "/(.*)", "dest": "/api/script.js" }]
 }
