@@ -7,5 +7,5 @@
     "routes": [
       { "src": "/(.*)",  "dest": "/api/index.php" },
       { "src": "/output.css", "dest": "/output.css" },
-      { "src": "/index.js", "dest": "/index.js" }]
+      { "src": "/script.js", "dest": "/script.js" }]
   }
