@@ -94,7 +94,7 @@ include 'insert.php';
     </div>
     <!-- <button type="submit" class="w-full lg:w-70% bg-blue-900 text-white p-2 rounded shadow-lg"><a href="include/fetch.php">Fetch Data</a></button>  -->
 
-    <script src="index.js"></script>
+    <script src="script.js"></script>
 
 </body>
 </html> 
