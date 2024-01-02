@@ -1,4 +1,5 @@
 <?php
+phpinfo();
 include 'connection.php';
 include 'insert.php';
 ?>
