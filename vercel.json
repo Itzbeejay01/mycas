@@ -4,6 +4,9 @@
     "api/**/*.php": {
       "runtime": "vercel-php@0.6.0"
     }
+    "api/**/*.css": {
+      "runtime": "vercel-php@0.6.0"
+    }
   },
   "routes": [
     { "src": "/(.*)",  "dest": "/api/index.php" },
