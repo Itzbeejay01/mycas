@@ -6,6 +6,6 @@
     },
     "routes": [
       { "src": "/(.*)",  "dest": "/api/index.php" },
-      { "src": "/output.css", "dest": "/output.css" },
-      { "src": "/script.js", "dest": "/script.js" }]
+      { "src": "output.css", "dest": "output.css" },
+      { "src": "script.js", "dest": "script.js" }]
   }
